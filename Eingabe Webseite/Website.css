@@ -1,0 +1,26 @@
+div.container {
+    margin: 0 auto;
+    float: none;
+    width: 100%;
+    height: 100%;
+    max-width: 250px;
+    overflow: hidden;
+    
+}
+
+
+
+body {
+    color: #000000;
+    background-color: #9e9e9e;
+    font-family: arial, verdana, sans-serif;
+    font-size: 11pt;
+    line-height: 125%;
+}
+
+label {
+	font-family: cursive;
+
+}
+
+
